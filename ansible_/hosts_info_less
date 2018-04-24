@@ -1,0 +1,16 @@
+[targets]
+
+10.245.243.5
+10.245.243.6
+10.245.243.7
+10.245.243.8
+10.245.243.9
+10.245.243.10
+10.245.243.11
+10.245.243.12
+10.245.243.255
+
+[all:vars]
+ansible_connection=ssh 
+ansible_ssh_user=cafetest
+ansible_ssh_pass=cafetest
