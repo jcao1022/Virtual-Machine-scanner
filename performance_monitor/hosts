@@ -1,0 +1,8 @@
+[targets]
+192.168.0.116
+
+
+[all:vars]
+ansible_connection=ssh 
+ansible_ssh_user=jcao
+ansible_ssh_pass=WD87diannao
